@@ -1,9 +1,5 @@
 # Welcome
 
-<br>
-
-## About
-
 Hi, I'm a second-year Electronic and Information Engineering MEng student at Imperial College London focused on intelligent systems, applied machine learning, and computational engineering.<br>
 
 My work spans:
