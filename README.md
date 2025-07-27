@@ -1,19 +1,48 @@
-### Welcome
-<p>Welcome to my GitHub repository! I am a passionate student (Imperial College, London) dedicated to exploring various aspects of machine learning, deep learning, data science, and algorithmic trading strategies. My projects range from practical implementations of trading strategies to deep learning tasks, time series forecasting, and data automation scripts.</p>
+# Welcome
 
-### Key Areas of Focus:
-<p>Machine Learning & Deep Learning: Projects involving signature verification using a CNN with triplet loss and challenges from the DeepML platform.<br>
-Data Science & Analysis: Time series forecasting using ARIMA, data flow automation, and other relevant data science tasks.<br>
-Algorithmic Trading: Implementation of multiple trading strategies, including those inspired by the QuantConnect Algorithmic Trading Bootcamp.<br>
-Computer Vision: A project focusing on the generation and detection of ArUco markers through video.</p>
+<br>
 
-### Learning
-<p>As a student, I am continuously expanding my knowledge and skills in these domains. I am particularly interested in deepening my understanding of machine and deep learning, and data-driven trading strategies. I enjoy tackling new challenges and taking on a diverse range of projects to broaden my expertise.</p>
+## About
 
-### Looking Forward
-<p>I am committed to furthering my exploration in these areas and look forward to contributing more complex and impactful projects in the future.</p>
+Hi, I'm a second-year Electronic and Information Engineering MEng student at Imperial College London focused on intelligent systems, applied machine learning, and computational engineering.<br>
 
-### Additional Work
-<p>I have successfully completed a series of specialized courses on Kaggle, encompassing foundational and advanced topics in machine learning, data visualization, and deep learning. These courses include "Intro to Machine Learning," "Pandas," "Intermediate Machine Learning," "Data Visualization," "Intro to Deep Learning," "Time Series," and "Intro to Game AI and Reinforcement Learning." Through these certifications, I have developed a strong understanding of data science methodologies, machine learning algorithms, and their applications.</p>
-freeCodeCamp - https://www.freecodecamp.org/CGc0d1ng<br>
-Thank you for visiting my repository! Feel free to reach out if you have any questions or suggestions.</p>
+My work spans:
+- **Research**: Modelling neural processes with RL and DL agents in the Neural Reckoning group
+- **Personal projects**: Practical applications of deep learning in image classification, natural language processing, finance, and computer vision
+- **Coursework**: Systems-level engineering, including CPU design, compilers, and FPGA acceleration
+
+<br>
+
+## Research and Technical Projects
+
+- [Computational Neuroscience Modelling](https://github.com/C-Gibson20/computational-neuroscience-modelling)  
+  RL and DL agents replicating experimental brain behaviour for cognitive hypothesis generation.
+
+- [Signature Verification (Siamese CNN)](https://github.com/C-Gibson20/signature-verification)  
+  ResNet50 Siamese network with triplet loss and TPU optimisation. Achieved 83.9% validation accuracy.
+
+- [Financial Sentiment Analysis (BERT)](https://github.com/C-Gibson20/financial-sentiment-analysis)  
+  Fine-tuned BERT model using synonym augmentation, Focal Loss, and Hugging Face transformers.
+
+- [LSTM-Based Trading Strategy](https://github.com/C-Gibson20/lstm-strategy)  
+  Predictive stock strategy using LSTM networks and walk-forward validation.
+
+- [EMA Turning Point Strategy](https://github.com/C-Gibson20/ema-turning-point-strategy)  
+  Event-driven crypto trading bot detecting EMA inflection points.
+
+<br>
+
+## University Coursework Projects
+
+- [RISC-V CPU Design (Group)](https://github.com/C-Gibson20/RISC-V-Team17-CPU)  
+  5-stage pipelined CPU in SystemVerilog with instruction, data cache and hazard detection.
+
+- [FPGA CFD Accelerator (Group)](https://github.com/C-Gibson20/FPGA-Computational-Fluid-Dynamics-Accelerator)  
+  Implemented a hardware fluid dynamics solver using fixed-point arithmetic and parallelism on Quartus.
+
+- [C Compiler (Group)](https://github.com/C-Gibson20/C-Compiler)  
+  Wrote a working C-to-assembly compiler with custom tokenizer, parser, and code generator.
+
+<br>
+
+Feel free to explore my repositories or connect for collaboration.
