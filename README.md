@@ -36,7 +36,7 @@ My work spans:
 - [FPGA CFD Accelerator (Group)](https://github.com/C-Gibson20/FPGA-Computational-Fluid-Dynamics-Accelerator)  
   Implemented a hardware fluid dynamics solver using fixed-point arithmetic and parallelism on Quartus.
 
-- [C Compiler (Group)](https://github.com/C-Gibson20/C-Compiler)  
+- [C90 to RISC-V Compiler (Group)](https://github.com/C-Gibson20/C90-RISC-V-Compiler)  
   Wrote a working C-to-assembly compiler with custom tokenizer, parser, and code generator.
 
 <br>
