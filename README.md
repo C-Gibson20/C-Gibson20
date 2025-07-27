@@ -3,7 +3,7 @@
 Hi, I'm a second-year Electronic and Information Engineering MEng student at Imperial College London focused on intelligent systems, applied machine learning, and computational engineering.<br>
 
 My work spans:
-- **Research**: Modelling neural processes with RL and DL agents in the Neural Reckoning group
+- **Research**: Modelling neural processes in the Neural Reckoning group
 - **Personal projects**: Practical applications of deep learning in image classification, natural language processing, finance, and computer vision
 - **Coursework**: Systems-level engineering, including CPU design, compilers, and FPGA acceleration
 
