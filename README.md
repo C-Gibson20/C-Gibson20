@@ -1,6 +1,6 @@
 # Welcome
 
-Hi, I'm a second-year Electronic and Information Engineering MEng student at Imperial College London focused on intelligent systems, applied machine learning, and computational engineering.<br>
+Hi, I'm a 3rd year Electronic and Information Engineering MEng student at Imperial College London focused on intelligent systems, applied machine learning, and computational engineering.<br>
 
 My work spans:
 - **Research**: Modelling neural processes in the Neural Reckoning group
