@@ -6,7 +6,9 @@ My work spans:
 - **Research**: Modelling neural processes in the Neural Reckoning group
 - **Personal projects**: Practical applications of deep learning in image classification, natural language processing, finance, and computer vision
 - **Coursework**: Systems-level engineering, including CPU design, compilers, and FPGA acceleration
+<br>
 
+*Note: The projects listed below represent selected highlights and are not an exhaustive portfolio. Additional work can be found in my other repositories.*
 <br>
 
 ## Research and Technical Projects
