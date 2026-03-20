@@ -13,6 +13,9 @@ My work spans:
 
 ## Research and Technical Projects
 
+- [Modular Neural Network Evolution](https://github.com/C-Gibson20/Modular-NN-Evolution)  
+  Genetic evolutionary algorithm for modular NN evolution and neural structure-function understanding.
+  
 - [Computational Neuroscience Modelling](https://github.com/C-Gibson20/computational-neuroscience-modelling)  
   RL and DL agents replicating experimental brain behaviour for cognitive hypothesis generation.
 
