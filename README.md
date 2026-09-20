@@ -1,49 +1,46 @@
 # Welcome
 
-Hi, I'm a 3rd year Electronic and Information Engineering MEng student at Imperial College London focused on intelligent systems, applied machine learning, and computational engineering.<br>
+Hi, I'm a final-year Electronic and Information Engineering MEng student at Imperial College London, graduating in 2027.
 
-My work spans:
-- **Research**: Modelling neural processes in the Neural Reckoning group
-- **Personal projects**: Practical applications of deep learning in image classification, natural language processing, finance, and computer vision
-- **Coursework**: Systems-level engineering, including CPU design, compilers, and FPGA acceleration
-<br>
+I'm interested in AI systems, heterogeneous compute, hardware/software co-design, and automated systems for optimisation. My work spans systems research, reinforcement learning, evolutionary search, computer architecture, compilers and FPGAs.
 
-*Note: The projects listed below represent selected highlights and are not an exhaustive portfolio. Additional work can be found in my other repositories.*
-<br>
+### Industry Experience
 
-## Research and Technical Projects
+#### Callosum 
+**Member of Technical Staff Intern, Compute & Infrastructure**<br>
+*May 2026 – September 2026*
 
-- [Modular Neural Network Evolution](https://github.com/C-Gibson20/Modular-NN-Evolution)  
-  Genetic evolutionary algorithm for modular NN evolution and neural structure-function understanding.
-  
-- [Computational Neuroscience Modelling](https://github.com/C-Gibson20/computational-neuroscience-modelling)  
-  RL and DL agents replicating experimental brain behaviour for cognitive hypothesis generation.
+During my placement, I owned development of an internal system that autonomously generates, executes, evaluates, diagnoses and improves software for heterogeneous AI compute, combining deterministic orchestration with agentic components where needed.
 
-- [Signature Verification (Siamese CNN)](https://github.com/C-Gibson20/signature-verification)  
-  ResNet50 Siamese network with triplet loss and TPU optimisation. Achieved 83.9% validation accuracy.
+The system included a plugin-based program-evolution engine and complementary trace-analysis tooling, with applications including Triton kernel optimisation, paged KV-cache policy search, workflow optimisation and automated vLLM model onboarding across NVIDIA and AWS Neuron environments.
 
-- [Financial Sentiment Analysis (BERT)](https://github.com/C-Gibson20/financial-sentiment-analysis)  
-  Fine-tuned BERT model using synonym augmentation, Focal Loss, and Hugging Face transformers.
+*This work is not publicly available on GitHub.*
 
-- [LSTM-Based Trading Strategy](https://github.com/C-Gibson20/lstm-strategy)  
-  Predictive stock strategy using LSTM networks and walk-forward validation.
+### Selected Projects & Research
 
-- [EMA Turning Point Strategy](https://github.com/C-Gibson20/ema-turning-point-strategy)  
-  Event-driven crypto trading bot detecting EMA inflection points.
+#### [Modular Neural Network Evolution](https://github.com/C-Gibson20/Modular-NN-Evolution)
 
-<br>
+Structural-bank evolutionary algorithm for neural architecture search, evolving module/motif selection and connectivity with faster convergence than NEAT across evaluated maze and image tasks.
 
-## University Coursework Projects
+#### [FPGA Computational Fluid Dynamics Accelerator](https://github.com/C-Gibson20/FPGA-Computational-Fluid-Dynamics-Accelerator)
 
-- [RISC-V CPU Design (Group)](https://github.com/C-Gibson20/RISC-V-Team17-CPU)  
-  5-stage pipelined CPU in SystemVerilog with instruction, data cache and hazard detection.
+**Best Project of the Year.** Real-time lattice-Boltzmann CFD system on a PYNQ-Z1 FPGA integrating FPGA compute, AXI DMA, host processing, networking and GPU visualisation. The overall system achieved roughly **10× speedup over a Python/NumPy baseline** for a 50×50 compute case.
 
-- [FPGA CFD Accelerator (Group)](https://github.com/C-Gibson20/FPGA-Computational-Fluid-Dynamics-Accelerator)  
-  Implemented a hardware fluid dynamics solver using fixed-point arithmetic and parallelism on Quartus.
+#### [RISC-V CPU Design](https://github.com/C-Gibson20/RISC-V-Team17-CPU)
 
-- [C90 to RISC-V Compiler (Group)](https://github.com/C-Gibson20/C90-RISC-V-Compiler)  
-  Wrote a working C-to-assembly compiler with custom tokenizer, parser, and code generator.
+RV32I processor design covering pipeline hazard handling, branch prediction and L1/L2 cache hierarchies, with targeted SystemVerilog, C++ and assembly verification.
 
-<br>
+#### [C90 to RISC-V Compiler](https://github.com/C-Gibson20/C90-RISC-V-Compiler)
 
-Feel free to explore my repositories or connect for collaboration.
+C90-to-RISC-V compiler co-developed in a two-person team using C++, Flex and Bison, covering lexical analysis, parsing, AST construction and architecture-aware code generation.
+
+#### [Computational Neuroscience Modelling](https://github.com/C-Gibson20/computational-neuroscience-modelling)
+
+DDPG-based behavioural modelling with custom simulation/evaluation tooling, Dynamic Time Warping and rule-based baselines.
+
+---
+
+The projects above are selected highlights rather than an exhaustive portfolio.
+Additional coursework, experiments and smaller projects are available across my other repositories.
+
+Feel free to explore them and connect for collaboration.
